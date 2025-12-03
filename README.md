@@ -1,7 +1,4 @@
-下面给你写一个**详细、专业、完整的英文 README.md**，结构清晰、适合 GitHub 项目直接使用。
-（已根据你的代码逻辑补充了用途、流程、输入输出说明、可视化示例、配置说明等内容。）
 
----
 
 # 📡 DifferentiableDSP for mmWave Radar Signal Processing
 
